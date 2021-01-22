@@ -1,7 +1,7 @@
-
+// https://github.com/Ehtasham47/Assignment
 function kilometerToMeter(number) {
     if (number < 0) {
-        return "Distence can't be negative";
+        return "Distance can't be negative";
     }
     else {
         var meter = number * 1000;
